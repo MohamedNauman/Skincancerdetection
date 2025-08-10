@@ -110,7 +110,7 @@ python -c "import tensorflow as tf; print('TensorFlow version:', tf.__version__)
 ### Option 1: Web Interface (Recommended)
 ```bash
 # Launch the web application
-streamlit run app.py
+python app.py
 ```
 Then open http://localhost:8501 in your browser
 
