@@ -6,7 +6,7 @@
 
 ## 📋 Overview
 
-An AI-powered melanoma skin cancer detection system that uses deep learning to classify 9 different types of skin lesions from dermatoscopic images. Built with TensorFlow and MobileNetV2 for high accuracy and real-time predictions.
+An AI-powered melanoma skin cancer detection system that uses deep learning to classify 9 different types of skin lesions from dermatoscopic images. Built with TensorFlow for high accuracy and real-time predictions.
 
 ### 🎯 Key Features
 - **95%+ Accuracy** on test dataset
